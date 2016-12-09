@@ -47,7 +47,7 @@ public class Main {
 	            //表示无限量供应，直到背包放不下为止.  
 	            CompletePack(w[i],v[i]);  
 	        } else {  
-	            k = 1;  
+	            k = 1;
 	            nCount = num[i];  
 	            while(k <= nCount) {
 	            	System.out.println(k);
